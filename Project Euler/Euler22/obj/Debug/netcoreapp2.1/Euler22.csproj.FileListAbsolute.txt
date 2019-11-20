@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\Euler22\bin\Debug\netcoreapp2.1\Euler22.deps.json
+D:\Visual Studio 2019\Euler22\bin\Debug\netcoreapp2.1\Euler22.runtimeconfig.json
+D:\Visual Studio 2019\Euler22\bin\Debug\netcoreapp2.1\Euler22.runtimeconfig.dev.json
+D:\Visual Studio 2019\Euler22\bin\Debug\netcoreapp2.1\Euler22.dll
+D:\Visual Studio 2019\Euler22\bin\Debug\netcoreapp2.1\Euler22.pdb
+D:\Visual Studio 2019\Euler22\obj\Debug\netcoreapp2.1\Euler22.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Euler22\obj\Debug\netcoreapp2.1\Euler22.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Euler22\obj\Debug\netcoreapp2.1\Euler22.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Euler22\obj\Debug\netcoreapp2.1\Euler22.AssemblyInfo.cs
+D:\Visual Studio 2019\Euler22\obj\Debug\netcoreapp2.1\Euler22.dll
+D:\Visual Studio 2019\Euler22\obj\Debug\netcoreapp2.1\Euler22.pdb

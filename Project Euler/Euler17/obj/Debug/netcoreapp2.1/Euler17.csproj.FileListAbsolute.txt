@@ -1,0 +1,10 @@
+D:\Visual Studio 2019\Euler17\bin\Debug\netcoreapp2.1\Euler17.deps.json
+D:\Visual Studio 2019\Euler17\bin\Debug\netcoreapp2.1\Euler17.runtimeconfig.json
+D:\Visual Studio 2019\Euler17\bin\Debug\netcoreapp2.1\Euler17.runtimeconfig.dev.json
+D:\Visual Studio 2019\Euler17\bin\Debug\netcoreapp2.1\Euler17.dll
+D:\Visual Studio 2019\Euler17\bin\Debug\netcoreapp2.1\Euler17.pdb
+D:\Visual Studio 2019\Euler17\obj\Debug\netcoreapp2.1\Euler17.csprojAssemblyReference.cache
+D:\Visual Studio 2019\Euler17\obj\Debug\netcoreapp2.1\Euler17.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Euler17\obj\Debug\netcoreapp2.1\Euler17.AssemblyInfo.cs
+D:\Visual Studio 2019\Euler17\obj\Debug\netcoreapp2.1\Euler17.dll
+D:\Visual Studio 2019\Euler17\obj\Debug\netcoreapp2.1\Euler17.pdb
